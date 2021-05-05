@@ -11,6 +11,9 @@ Use the package manager [npm](https://www.npmjs.com/) to install Curso API.
 ```bash
 npm install
 ```
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file from .env.example file
 
 ## Usage
 On local environment run:
