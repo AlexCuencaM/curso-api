@@ -2,7 +2,7 @@
 
 Practice MERN with Node.js Express.js and MongoDB
 ## Requirements
-Must be to have MongoDB,nodemon and Node installed
+Must be to have MongoDB, nodemon and Node installed
 
 ## Installation
 
